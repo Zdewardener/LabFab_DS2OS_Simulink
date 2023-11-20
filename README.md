@@ -3,10 +3,10 @@
 
 Link to video of the Physical system being simulated (LabFab) ---> https://www.youtube.com/watch?v=5_MvuACnVRw
 
-**Most recent version labelled "LabFabSim2022a_10_6_2023.slx" contains all the attacks mentioned in the paper.**
+Most recent version labelled "LabFabSim2022a_10_6_2023.slx" contains all the attacks mentioned in the paper.
 
 **To enable attacks, change attack probability within the sim (initially set to zero):**
-~DOS example~
+**DOS example**
 1.) Navigate to "HBW_Start (DOS)" subsystem  
 2.) Select {...} with "DOS attack location" label  
 3.) Change chanceDOS value to a range from 0.0 - 1.0 >
